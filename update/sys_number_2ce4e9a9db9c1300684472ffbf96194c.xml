@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_194307_test_cust_test_custom_table">x_194307_test_cust_test_custom_table</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>TEST_Cust</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>Nunu.Nidhiry</sys_created_by>
+        <sys_created_on>2018-02-15 07:52:21</sys_created_on>
+        <sys_id>2ce4e9a9db9c1300684472ffbf96194c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEST_Cust</sys_name>
+        <sys_package display_value="TEST_Custom" source="x_194307_test_cust">8ce429a9db9c1300684472ffbf961988</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TEST_Custom">8ce429a9db9c1300684472ffbf961988</sys_scope>
+        <sys_update_name>sys_number_2ce4e9a9db9c1300684472ffbf96194c</sys_update_name>
+        <sys_updated_by>Nunu.Nidhiry</sys_updated_by>
+        <sys_updated_on>2018-02-15 07:52:21</sys_updated_on>
+    </sys_number>
+</record_update>
